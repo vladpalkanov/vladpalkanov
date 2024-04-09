@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vladpalkanov
-- 👀 I’m interested in NodeJS, Typescript
-- 🌱 I’m currently learning Back-end development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in NodeJS, Typescript, NextJS, React
+- 🌱 I’m currently learning Back-end development and Solution Design
+- 💞️ I’m looking to collaborate on various projects
+- 📫 How to reach me: palkanov.vlad@gmail.com
 
 <!---
 vladpalkanov/vladpalkanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
